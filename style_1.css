@@ -1,0 +1,67 @@
+.circle-icon{
+    background-color: #5bc0de;
+    padding: 30px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.row i{
+    color: white;
+}
+
+.inside{
+    width: 500px;
+    margin: 60px;
+}
+
+.feedback{
+    border-radius: 30px;
+}
+.feedback:hover{
+    background-color: transparent;
+    col
+}
+
+.banner{
+    background-color: #1c4966;
+    margin-top: -1px;
+padding: 30px;}
+
+#column1{
+    border-style-left: none ;
+
+}
+
+.request button-r: hover{
+    background-color: black;
+
+}
+.last{
+    background-image: url(https://bit.ly/3hrvUEI);
+    height: 400px;
+}
+
+.container .greyarea{
+    background-color: lightgrey;
+
+}
+
+
+nav .navbar-nav li a{
+    color: white;
+}
+
+.cover{
+    background-image: url(https://wallpaperaccess.com/full/1201238.jpg);
+}
+
+.pill{
+    border-radius: 26px;
+    color: black;
+}
+
+.pill:hover{
+    color: white;
+    background-color: transparent;
+    border-color: white;
+}
